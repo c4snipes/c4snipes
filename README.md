@@ -25,6 +25,18 @@ Computer Science major with Software Engineering concentration at the University
 
 ---
 
+## ⚡ Quick Stats
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Indianapolis%2C%20IN-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Languages-10+-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-6+-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Graduating-2026-purple?style=for-the-badge" />
+</p>
+
+---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -42,14 +54,7 @@ Computer Science major with Software Engineering concentration at the University
 <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,replit" />
 
 ### 🤖 AI & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=flat-square&logo=google&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
 
 </div>
 
