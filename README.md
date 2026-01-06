@@ -88,7 +88,7 @@ Computer Science major with Software Engineering concentration at the University
 - 🎨 Frontend lead using **Svelte** for responsive component architecture
 - 🤖 Integrated **Gemini AI** for automated course objective mapping to accreditation standards
 - 🔧 Built modular components: Header, Tabs, Footer, Pagination, Overview
-- 🐳 Configured **Docker** + **n8n** for database automation and workflow orchestration
+- 🐳 Configured **Docker** for framework installation automation
 - ☁️ **Firebase** backend integration for real-time data management
 - 👥 Collaborative capstone project for Krannert School of Physical Therapy
 
