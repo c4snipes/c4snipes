@@ -206,7 +206,7 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <div align="center">
   
-### 💡 "Code is like humor. When you have to explain it, it's bad." – Cory House
+### 💡 "Talk is cheap. Show me the code." – Linus Torvalds
 
 ![Profile Views](https://komarev.com/ghpvc/?username=c4snipes&color=blueviolet&style=for-the-badge)
 
