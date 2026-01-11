@@ -294,7 +294,7 @@ graph LR
 | **Version Control** | Git, GitHub |
 | **Languages** | Python 3.13, Node.js, .NET, Haskell |
 | **Embedded** | ESP-IDF (IoT Development) |
-
+| **Gaming** | Xbox: silvercloud595 |
 
 </details>
 
