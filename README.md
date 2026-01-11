@@ -6,7 +6,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cole-snipes/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cole.snipes@icloud.com)
+<!-- Portfolio site currently down - commenting out until restored
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://colesnipesportfolio.netlify.app/)
+-->
 
 ![Profile Views](https://komarev.com/ghpvc/?username=c4snipes&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
@@ -89,6 +91,7 @@ Computer Science major with Software Engineering concentration at the University
 
 ## 🚀 Featured Projects
 
+<!-- KSPT repo is private - commenting out until public
 ### [KSPT Curricular Command Center](https://github.com/RBASOE-Class-Projects/202510_ENGR496_KSPT)
 **AI-Powered Curriculum Mapping Tool** | *Capstone Project (ENGR 496) - In Development*
 - 🎨 Frontend lead using **Svelte** for responsive component architecture
@@ -101,6 +104,7 @@ Computer Science major with Software Engineering concentration at the University
 **Tech:** Svelte · Firebase · Gemini AI · Docker · n8n
 
 ---
+-->
 
 ### [n8n-to-Python Transpiler](https://github.com/c4snipes/n8n-transpiler)
 **Workflow Automation Converter** | *Developer Tooling*
@@ -158,15 +162,19 @@ Computer Science major with Software Engineering concentration at the University
 
 ### Academic & Open Source Projects
 
+<!-- KSPT repo is private - commenting out until public
 **[KSPT Capstone Project](https://github.com/RBASOE-Class-Projects/202510_ENGR496_KSPT)** - RBASOE Class Projects
 - Lead frontend developer for curriculum mapping tool
 - Team infrastructure setup and database configuration
 - Extensive Svelte component development and Firebase integration
+-->
 
-**[WebVPython-Refactoring](https://github.com/UINDY-SWEN-200/WebVPython-Refactoring-202310)** - Software Engineering Project  
+<!-- WebVPython repo unavailable - commenting out
+**[WebVPython-Refactoring](https://github.com/UINDY-SWEN-200/WebVPython-Refactoring-202310)** - Software Engineering Project
 - Contributed to Monaco Editor integration and URL loading features
 - Implemented Google Drive storage integration
 - Refactored Flask and IDE.js routing architecture
+-->
 
 **[wmWVPRunner](https://github.com/UINDY-SWEN-200/wmWVPRunner)** - VPython Runner Tool
 - Development contributions for VPython execution environment
@@ -235,7 +243,9 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cole-snipes/)
 - 📧 [cole.snipes@icloud.com](mailto:cole.snipes@icloud.com)
+<!-- Portfolio site currently down - commenting out until restored
 - 🌐 [Portfolio Website](https://colesnipesportfolio.netlify.app/)
+-->
 - 📍 Indianapolis, IN
 
 ---
