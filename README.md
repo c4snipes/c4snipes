@@ -51,6 +51,14 @@ Computer Science major with Software Engineering concentration at the University
 
 <br clear="right"/>
 
+### 🎵 Currently Listening To
+
+<div align="center">
+
+[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=6x5uk4ku7y7um1w96k16w31fw&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=6x5uk4ku7y7um1w96k16w31fw&redirect=true)
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## ⚡ Quick Stats
@@ -342,12 +350,6 @@ graph LR
 [![Xbox](https://img.shields.io/badge/Xbox-silvercloud595-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/profile)
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-C4Snipes-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/C4Snipes)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6x5uk4ku7y7um1w96k16w31fw)
-
----
-
-### 🎵 Now Playing
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=6x5uk4ku7y7um1w96k16w31fw&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=6x5uk4ku7y7um1w96k16w31fw&redirect=true)
 
 ---
 
