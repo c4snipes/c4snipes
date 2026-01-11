@@ -236,6 +236,115 @@ Computer Science major with Software Engineering concentration at the University
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🗺️ Learning Roadmap
+
+<div align="center">
+
+```mermaid
+graph LR
+    subgraph MASTERED[" ✅ Mastered "]
+        A[JavaScript]
+        B[Python]
+        C[HTML/CSS]
+        D[React]
+    end
+
+    subgraph LEARNING[" 📚 Currently Learning "]
+        E[TypeScript]
+        F[Rust]
+        G[AI/ML]
+        H[Svelte]
+    end
+
+    subgraph NEXT[" 🎯 Next Up "]
+        I[Go]
+        J[Kubernetes]
+        K[System Design]
+    end
+
+    subgraph FUTURE[" 🔮 Future Goals "]
+        L[WebAssembly]
+        M[Blockchain]
+        N[Compilers]
+    end
+
+    A --> E
+    B --> G
+    D --> H
+    E --> I
+    F --> L
+    G --> K
+    H --> J
+    I --> N
+    J --> M
+
+    style MASTERED fill:#238636,stroke:#238636,color:#fff
+    style LEARNING fill:#1f6feb,stroke:#1f6feb,color:#fff
+    style NEXT fill:#8957e5,stroke:#8957e5,color:#fff
+    style FUTURE fill:#f85149,stroke:#f85149,color:#fff
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🖥️ Hardware Setup
+
+<div align="center">
+
+| Component | Specification |
+|:---------:|:-------------|
+| 💻 **Laptop** | MacBook Pro / Windows Workstation |
+| 🖥️ **Monitor** | Dual Monitor Setup |
+| ⌨️ **Keyboard** | Mechanical Keyboard |
+| 🖱️ **Mouse** | Gaming/Precision Mouse |
+| 🎧 **Audio** | Over-ear Headphones |
+| 💺 **Chair** | Ergonomic Desk Chair |
+| 🌐 **Internet** | High-speed Fiber |
+
+</div>
+
+<details>
+<summary>🔧 <b>Software & Tools</b></summary>
+<br>
+
+| Category | Tools |
+|:--------:|:------|
+| **IDE** | VS Code, IntelliJ IDEA |
+| **Terminal** | iTerm2 / Windows Terminal + Oh My Zsh |
+| **Browser** | Chrome + Dev Tools |
+| **Design** | Figma |
+| **Notes** | Notion, Obsidian |
+| **API Testing** | Postman, Insomnia |
+| **Containers** | Docker Desktop |
+
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 🪣 Bucket List - Things I Want to Build
+
+<div align="center">
+
+| Status | Project | Description |
+|:------:|:--------|:------------|
+| 🔨 | **Programming Language** | Create my own interpreted/compiled language |
+| 📋 | **Operating System** | Build a basic OS from scratch |
+| 🎮 | **Game Engine** | Develop a 2D/3D game engine |
+| 🤖 | **AI Assistant** | Personal AI with local LLM |
+| 🌐 | **Social Platform** | Developer-focused social network |
+| 📱 | **Mobile App** | Cross-platform app with 10k+ downloads |
+| 🔧 | **VS Code Extension** | Popular extension with 1k+ installs |
+| 📦 | **NPM Package** | Widely-used open source package |
+| 🏆 | **Hackathon Win** | Win a major hackathon |
+| 💼 | **Startup** | Launch a tech startup |
+
+</div>
+
+**Legend:** 🔨 In Progress | 📋 Planned | ✅ Completed
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## 📫 Let's Connect!
 
 I'm always interested in collaborating on interesting projects or discussing tech! Feel free to reach out:
