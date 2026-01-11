@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cole%20Snipes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Frontend%20Developer%20|%20Problem%20Solver&descAlignY=52&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3E00&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Tools+%F0%9F%A4%96;Full+Stack+Development+%F0%9F%9A%80;Workflow+Automation+%E2%9A%A1;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3E00&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Tools+%F0%9F%A4%96;Full+Stack+Development+%F0%9F%9A%80;Workflow+Automation+%E2%9A%A1;Always+Learning+%F0%9F%93%9A;Game+Development+%F0%9F%8E%AE;Problem+Solver+%F0%9F%A7%A9;Coffee+%E2%86%92+Code+%E2%98%95;Clean+Code+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
 
 ### Software Engineering Student | Frontend Developer | Problem Solver
 
@@ -294,29 +294,28 @@ graph LR
 
 | Component | Specification |
 |:---------:|:-------------|
-| 💻 **Laptop** | MacBook Pro / Windows Workstation |
-| 🖥️ **Monitor** | Dual Monitor Setup |
-| ⌨️ **Keyboard** | Mechanical Keyboard |
-| 🖱️ **Mouse** | Gaming/Precision Mouse |
-| 🎧 **Audio** | Over-ear Headphones |
-| 💺 **Chair** | Ergonomic Desk Chair |
-| 🌐 **Internet** | High-speed Fiber |
+| 💻 **Machine** | MacBook Pro (Apple M1 Pro) |
+| 🧠 **Memory** | 16 GB Unified Memory |
+| 💾 **Storage** | SSD |
 
 </div>
 
 <details>
-<summary>🔧 <b>Software & Tools</b></summary>
+<summary>🔧 <b>Software & Development Environment</b></summary>
 <br>
 
 | Category | Tools |
 |:--------:|:------|
-| **IDE** | VS Code, IntelliJ IDEA |
-| **Terminal** | iTerm2 / Windows Terminal + Oh My Zsh |
-| **Browser** | Chrome + Dev Tools |
-| **Design** | Figma |
-| **Notes** | Notion, Obsidian |
-| **API Testing** | Postman, Insomnia |
-| **Containers** | Docker Desktop |
+| **Primary IDE** | VS Code |
+| **AI Assistants** | Claude Code, GitHub Copilot |
+| **Terminal** | Zsh, TMUX |
+| **Package Managers** | Homebrew, npm, pip, Anaconda |
+| **Containers** | Docker |
+| **Cloud/Deploy** | Fly.io, Vercel, Firebase |
+| **Version Control** | Git, GitHub |
+| **Languages** | Python 3.13, Node.js, .NET, Haskell |
+| **Embedded** | ESP-IDF (IoT Development) |
+
 
 </details>
 
@@ -328,16 +327,9 @@ graph LR
 
 | Status | Project | Description |
 |:------:|:--------|:------------|
-| 🔨 | **Programming Language** | Create my own interpreted/compiled language |
-| 📋 | **Operating System** | Build a basic OS from scratch |
-| 🎮 | **Game Engine** | Develop a 2D/3D game engine |
-| 🤖 | **AI Assistant** | Personal AI with local LLM |
-| 🌐 | **Social Platform** | Developer-focused social network |
-| 📱 | **Mobile App** | Cross-platform app with 10k+ downloads |
-| 🔧 | **VS Code Extension** | Popular extension with 1k+ installs |
-| 📦 | **NPM Package** | Widely-used open source package |
-| 🏆 | **Hackathon Win** | Win a major hackathon |
-| 💼 | **Startup** | Launch a tech startup |
+| 🎮 | **Game** | Develop a 2D/3D game using Unity or UE5 |
+| 📱 | **Mobile App** | College sports dynasty/management sim |
+| 📊 | **Graph Builder** | No-code tool to create graphs from data, APIs, or files |
 
 </div>
 
