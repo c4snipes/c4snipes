@@ -18,6 +18,26 @@
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
+<details>
+<summary>📑 <b>Table of Contents</b></summary>
+
+| Section | Description |
+|:--------|:------------|
+| [🎓 About Me](#-about-me) | Background and current work |
+| [⚡ Quick Stats](#-quick-stats) | At-a-glance info |
+| [🛠️ Tech Stack](#️-tech-stack) | Languages, frameworks, tools |
+| [🗺️ Learning Roadmap](#️-learning-roadmap) | Tech progression path |
+| [🚀 Featured Projects](#-featured-projects) | Portfolio highlights |
+| [📊 Contributions](#-contributions) | Open source work |
+| [📈 GitHub Stats](#-github-stats) | Activity metrics |
+| [🏆 GitHub Trophies](#-github-trophies) | Achievements |
+| [🖥️ Hardware Setup](#️-hardware-setup) | Dev environment |
+| [🪣 Bucket List](#-bucket-list---things-i-want-to-build) | Future projects |
+| [🎮 Gaming & Hobbies](#-gaming--hobbies) | Personal interests |
+| [📫 Let's Connect](#-lets-connect) | Contact info |
+
+</details>
+
 ## 🎓 About Me
 
 <img align="right" alt="Pong" width="400" src="./assets/pong.gif"/>
@@ -294,7 +314,6 @@ graph LR
 | **Version Control** | Git, GitHub |
 | **Languages** | Python 3.13, Node.js, .NET, Haskell |
 | **Embedded** | ESP-IDF (IoT Development) |
-| **Gaming** | Xbox: silvercloud595 |
 
 </details>
 
@@ -316,27 +335,24 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🎮 Play 2048
+## 🎮 Gaming & Hobbies
 
 <div align="center">
+
+[![Xbox](https://img.shields.io/badge/Xbox-silvercloud595-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/profile)
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-C4Snipes-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/C4Snipes)
+
+---
+
+### 🕹️ Play 2048
 
 [![Play 2048](https://img.shields.io/badge/🎮_PLAY_2048-FF6B6B?style=for-the-badge&logoColor=white)](https://2048-game-seven-chi.vercel.app)
 
-<a href="https://2048-game-seven-chi.vercel.app">
-  <img src="https://img.shields.io/badge/Use_Arrow_Keys_or_Swipe-1a1a2e?style=flat-square" />
-</a>
-
 **Can you reach 2048?** 🏆
 
-</div>
+---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🎌 Anime Stats
-
-<div align="center">
-
-[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/C4Snipes)
+### 🎌 Anime Stats
 
 <a href="https://myanimelist.net/profile/C4Snipes">
   <img src="https://malheatmap.com/users/C4Snipes/signature" alt="MyAnimeList Stats" />
@@ -346,15 +362,12 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
 I'm always interested in collaborating on interesting projects or discussing tech! Feel free to reach out:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cole-snipes/)
 - 📧 [cole.snipes@icloud.com](mailto:cole.snipes@icloud.com)
-<!-- Portfolio site currently down - commenting out until restored
-- 🌐 [Portfolio Website](https://colesnipesportfolio.netlify.app/)
--->
 - 📍 Indianapolis, IN
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
