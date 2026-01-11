@@ -88,6 +88,58 @@ Computer Science major with Software Engineering concentration at the University
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🗺️ Learning Roadmap
+
+<div align="center">
+
+```mermaid
+graph LR
+    subgraph MASTERED[" ✅ Mastered "]
+        A[JavaScript]
+        B[Python]
+        C[HTML/CSS]
+        D[React]
+    end
+
+    subgraph LEARNING[" 📚 Currently Learning "]
+        E[TypeScript]
+        F[Rust]
+        G[AI/ML]
+        H[Svelte]
+    end
+
+    subgraph NEXT[" 🎯 Next Up "]
+        I[Go]
+        J[Kubernetes]
+        K[System Design]
+    end
+
+    subgraph FUTURE[" 🔮 Future Goals "]
+        L[WebAssembly]
+        M[Blockchain]
+        N[Compilers]
+    end
+
+    A --> E
+    B --> G
+    D --> H
+    E --> I
+    F --> L
+    G --> K
+    H --> J
+    I --> N
+    J --> M
+
+    style MASTERED fill:#238636,stroke:#238636,color:#fff
+    style LEARNING fill:#1f6feb,stroke:#1f6feb,color:#fff
+    style NEXT fill:#8957e5,stroke:#8957e5,color:#fff
+    style FUTURE fill:#f85149,stroke:#f85149,color:#fff
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 ## 🚀 Featured Projects
 
 <!-- KSPT repo is private - commenting out until public
@@ -215,79 +267,6 @@ Computer Science major with Software Engineering concentration at the University
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/c4snipes/c4snipes/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🎯 Current Focus
-
-- 🔨 Building **n8n Workflow Transpiler** - Converting automation workflows to standalone Python scripts
-- 🌐 Full-stack development with modern frameworks (Svelte, Firebase, Flask)
-- 🤖 Exploring AI/ML integration in applications
-- 🎮 Game development and community tools side projects
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
-## 🗺️ Learning Roadmap
-
-<div align="center">
-
-```mermaid
-graph LR
-    subgraph MASTERED[" ✅ Mastered "]
-        A[JavaScript]
-        B[Python]
-        C[HTML/CSS]
-        D[React]
-    end
-
-    subgraph LEARNING[" 📚 Currently Learning "]
-        E[TypeScript]
-        F[Rust]
-        G[AI/ML]
-        H[Svelte]
-    end
-
-    subgraph NEXT[" 🎯 Next Up "]
-        I[Go]
-        J[Kubernetes]
-        K[System Design]
-    end
-
-    subgraph FUTURE[" 🔮 Future Goals "]
-        L[WebAssembly]
-        M[Blockchain]
-        N[Compilers]
-    end
-
-    A --> E
-    B --> G
-    D --> H
-    E --> I
-    F --> L
-    G --> K
-    H --> J
-    I --> N
-    J --> M
-
-    style MASTERED fill:#238636,stroke:#238636,color:#fff
-    style LEARNING fill:#1f6feb,stroke:#1f6feb,color:#fff
-    style NEXT fill:#8957e5,stroke:#8957e5,color:#fff
-    style FUTURE fill:#f85149,stroke:#f85149,color:#fff
-```
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 ## 🖥️ Hardware Setup
 
 <div align="center">
@@ -337,19 +316,6 @@ graph LR
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 📫 Let's Connect!
-
-I'm always interested in collaborating on interesting projects or discussing tech! Feel free to reach out:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/cole-snipes/)
-- 📧 [cole.snipes@icloud.com](mailto:cole.snipes@icloud.com)
-<!-- Portfolio site currently down - commenting out until restored
-- 🌐 [Portfolio Website](https://colesnipesportfolio.netlify.app/)
--->
-- 📍 Indianapolis, IN
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
 ## 🎮 Play 2048
 
 <div align="center">
@@ -377,6 +343,19 @@ I'm always interested in collaborating on interesting projects or discussing tec
 </a>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📫 Let's Connect!
+
+I'm always interested in collaborating on interesting projects or discussing tech! Feel free to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/cole-snipes/)
+- 📧 [cole.snipes@icloud.com](mailto:cole.snipes@icloud.com)
+<!-- Portfolio site currently down - commenting out until restored
+- 🌐 [Portfolio Website](https://colesnipesportfolio.netlify.app/)
+-->
+- 📍 Indianapolis, IN
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
