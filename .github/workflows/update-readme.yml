@@ -41,22 +41,22 @@ jobs:
           today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
           random.seed(today)
 
-          # 1. Daily Theme (color changes based on day of week)
-          day_colors = {
-              0: '0:16,100:52',   # Monday - Blue to Purple
-              1: '6,11,20',       # Tuesday - Original gradient
-              2: '2,19,38',       # Wednesday - Green to Teal
-              3: '12,20,28',      # Thursday - Orange to Red
-              4: '24,25,26',      # Friday - Pink to Purple
-              5: '0,2,30',        # Saturday - Cyan to Blue
-              6: '14,15,16',      # Sunday - Gold to Orange
+          # 1. Daily Theme (famous color schemes)
+          day_themes = {
+              0: ('Tokyo Night', '24,26,27'),      # Monday - Deep blue to purple
+              1: ('Dracula', '27,28,30'),          # Tuesday - Purple to pink
+              2: ('Nord', '20,21,22'),             # Wednesday - Arctic blue
+              3: ('Monokai', '30,2,12'),           # Thursday - Pink accent
+              4: ('Synthwave', '27,30,2'),         # Friday - Purple to orange
+              5: ('One Dark', '22,24,26'),         # Saturday - Cool blue
+              6: ('Gruvbox', '6,8,12'),            # Sunday - Warm orange/yellow
           }
           day_of_week = datetime.now(timezone.utc).weekday()
-          color_list = day_colors.get(day_of_week, '6,11,20')
+          theme_name, color_list = day_themes.get(day_of_week, ('Default', '6,11,20'))
 
           content = re.sub(
               r'<!-- DAILY_THEME -->.*?<!-- /DAILY_THEME -->',
-              f'<!-- DAILY_THEME -->\n<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList={color_list}&height=4&section=header" width="60%"/>\n<!-- /DAILY_THEME -->',
+              f'<!-- DAILY_THEME -->\n**{theme_name}**\n<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList={color_list}&height=4&section=header" width="60%"/>\n<!-- /DAILY_THEME -->',
               content,
               flags=re.DOTALL
           )
@@ -123,7 +123,7 @@ jobs:
               f.write(content)
 
           print(f"README updated successfully!")
-          print(f"- Daily theme color: {color_list}")
+          print(f"- Daily theme: {theme_name} ({color_list})")
           print(f"- Words: {words}, Lines: {lines}")
           print(f"- Updated at: {updated_time}")
           EOF

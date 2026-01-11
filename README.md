@@ -376,9 +376,19 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <div align="center">
 
+### 🎨 Daily Themes
+*Theme rotates automatically each day!*
+
+| Mon | Tue | Wed | Thu | Fri | Sat | Sun |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| ![Tokyo Night](https://img.shields.io/badge/-Tokyo_Night-1a1b26?style=flat-square&logoColor=7aa2f7) | ![Dracula](https://img.shields.io/badge/-Dracula-282a36?style=flat-square&logoColor=ff79c6) | ![Nord](https://img.shields.io/badge/-Nord-2e3440?style=flat-square&logoColor=88c0d0) | ![Monokai](https://img.shields.io/badge/-Monokai-272822?style=flat-square&logoColor=f92672) | ![Synthwave](https://img.shields.io/badge/-Synthwave-241b2f?style=flat-square&logoColor=f97e72) | ![One Dark](https://img.shields.io/badge/-One_Dark-282c34?style=flat-square&logoColor=61afef) | ![Gruvbox](https://img.shields.io/badge/-Gruvbox-282828?style=flat-square&logoColor=fabd2f) |
+
+**Today's Theme:**
 <!-- DAILY_THEME -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
+
+---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
