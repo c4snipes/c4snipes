@@ -38,29 +38,10 @@ jobs:
           with open('README.md', 'r', encoding='utf-8') as f:
               content = f.read()
 
-          # 1. Random Emojis (different each day based on date seed)
-          emojis = ['🚀', '💻', '🔥', '⚡', '🎯', '💡', '🌟', '✨', '🎮', '🎲',
-                    '🏆', '💪', '🧠', '🎨', '🔮', '🌈', '🎸', '🎹', '🎵', '🎬',
-                    '🍕', '☕', '🌙', '🌊', '🏔️', '🌸', '🍀', '🦋', '🐉', '🦊']
           today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
           random.seed(today)
-          emoji1 = random.choice(emojis)
-          emoji2 = random.choice(emojis)
 
-          content = re.sub(
-              r'<!-- RANDOM_EMOJI -->.*?<!-- /RANDOM_EMOJI -->',
-              f'<!-- RANDOM_EMOJI -->{emoji1}<!-- /RANDOM_EMOJI -->',
-              content,
-              count=1
-          )
-          content = re.sub(
-              r'<!-- RANDOM_EMOJI -->.*?<!-- /RANDOM_EMOJI -->',
-              f'<!-- RANDOM_EMOJI -->{emoji2}<!-- /RANDOM_EMOJI -->',
-              content,
-              count=1
-          )
-
-          # 2. Daily Theme (color changes based on day of week)
+          # 1. Daily Theme (color changes based on day of week)
           day_colors = {
               0: '0:16,100:52',   # Monday - Blue to Purple
               1: '6,11,20',       # Tuesday - Original gradient
@@ -142,7 +123,6 @@ jobs:
               f.write(content)
 
           print(f"README updated successfully!")
-          print(f"- Random emojis: {emoji1}, {emoji2}")
           print(f"- Daily theme color: {color_list}")
           print(f"- Words: {words}, Lines: {lines}")
           print(f"- Updated at: {updated_time}")

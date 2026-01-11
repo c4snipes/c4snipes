@@ -283,8 +283,6 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <div align="center">
 
-<!-- RANDOM_EMOJI -->🍕<!-- /RANDOM_EMOJI --> **Today's Vibe** <!-- RANDOM_EMOJI -->🎲<!-- /RANDOM_EMOJI -->
-
 <!-- DAILY_THEME -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
