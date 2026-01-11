@@ -249,22 +249,17 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🎮 Play a Game!
+## 🎮 Play 2048
 
 <div align="center">
 
-**Rock Paper Scissors** - Click to play against me!
+[![Play 2048](https://img.shields.io/badge/🎮_PLAY_2048-FF6B6B?style=for-the-badge&logoColor=white)](https://2048-game-seven-chi.vercel.app)
 
-[![Rock](https://img.shields.io/badge/🪨_ROCK-blue?style=for-the-badge)](https://github.com/c4snipes/c4snipes/issues/new?title=RPS:%20Rock&body=I%20choose%20ROCK!%20🪨)
-[![Paper](https://img.shields.io/badge/📄_PAPER-green?style=for-the-badge)](https://github.com/c4snipes/c4snipes/issues/new?title=RPS:%20Paper&body=I%20choose%20PAPER!%20📄)
-[![Scissors](https://img.shields.io/badge/✂️_SCISSORS-red?style=for-the-badge)](https://github.com/c4snipes/c4snipes/issues/new?title=RPS:%20Scissors&body=I%20choose%20SCISSORS!%20✂️)
+<a href="https://2048-game-seven-chi.vercel.app">
+  <img src="https://img.shields.io/badge/Use_Arrow_Keys_or_Swipe-1a1a2e?style=flat-square" />
+</a>
 
-**Last Game:**
-<!-- GAME:START -->
-| Player | Choice | Computer | Result |
-|--------|--------|----------|--------|
-| Waiting for first player... | ❓ | ❓ | ❓ |
-<!-- GAME:END -->
+**Can you reach 2048?** 🏆
 
 </div>
 
