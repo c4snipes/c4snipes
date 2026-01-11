@@ -1,0 +1,103 @@
+name: Rock Paper Scissors Game
+
+on:
+  issues:
+    types: [opened]
+
+jobs:
+  play:
+    if: startsWith(github.event.issue.title, 'RPS:')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Play Rock Paper Scissors
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = context.payload.issue.title;
+            const player = context.payload.issue.user.login;
+
+            // Parse player choice
+            const choiceMatch = title.match(/RPS:\s*(rock|paper|scissors)/i);
+            if (!choiceMatch) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: context.payload.issue.number,
+                body: "Invalid move! Please use: Rock, Paper, or Scissors"
+              });
+              return;
+            }
+
+            const playerChoice = choiceMatch[1].toLowerCase();
+            const choices = ['rock', 'paper', 'scissors'];
+            const computerChoice = choices[Math.floor(Math.random() * 3)];
+
+            // Determine winner
+            let result;
+            let emoji;
+            if (playerChoice === computerChoice) {
+              result = "It's a TIE!";
+              emoji = "🤝";
+            } else if (
+              (playerChoice === 'rock' && computerChoice === 'scissors') ||
+              (playerChoice === 'paper' && computerChoice === 'rock') ||
+              (playerChoice === 'scissors' && computerChoice === 'paper')
+            ) {
+              result = `@${player} WINS!`;
+              emoji = "🎉";
+            } else {
+              result = "Computer WINS!";
+              emoji = "🤖";
+            }
+
+            const choiceEmoji = {
+              rock: '🪨',
+              paper: '📄',
+              scissors: '✂️'
+            };
+
+            // Comment result
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              body: `## ${emoji} Game Result!\n\n| Player | Choice | VS | Choice | Computer |\n|--------|--------|----|---------|---------|\n| @${player} | ${choiceEmoji[playerChoice]} ${playerChoice} | ⚔️ | ${choiceEmoji[computerChoice]} ${computerChoice} | 🤖 |\n\n**${result}**\n\nThanks for playing! [Play again?](https://github.com/${context.repo.owner}/${context.repo.repo})`
+            });
+
+            // Close issue
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.payload.issue.number,
+              state: 'closed',
+              labels: ['game', 'rps']
+            });
+
+            // Update README with last game
+            const fs = require('fs');
+            let readme = fs.readFileSync('README.md', 'utf8');
+
+            const gameResult = `| @${player} | ${choiceEmoji[playerChoice]} | ${choiceEmoji[computerChoice]} | ${result.replace(`@${player} `, '').replace('!', '')} |`;
+
+            // Find and update the game history table
+            const tableRegex = /(<!-- GAME:START -->[\s\S]*?)(<!-- GAME:END -->)/;
+            const newTable = `<!-- GAME:START -->\n| Player | Choice | Computer | Result |\n|--------|--------|----------|--------|\n${gameResult}\n<!-- GAME:END -->`;
+
+            if (readme.match(tableRegex)) {
+              readme = readme.replace(tableRegex, newTable);
+            }
+
+            fs.writeFileSync('README.md', readme);
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || git commit -m "🎮 Update RPS game result"
+          git push

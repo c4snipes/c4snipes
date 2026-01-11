@@ -249,6 +249,27 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🎮 Play a Game!
+
+<div align="center">
+
+**Rock Paper Scissors** - Click to play against me!
+
+[![Rock](https://img.shields.io/badge/🪨_ROCK-blue?style=for-the-badge)](https://github.com/c4snipes/c4snipes/issues/new?title=RPS:%20Rock&body=I%20choose%20ROCK!%20🪨)
+[![Paper](https://img.shields.io/badge/📄_PAPER-green?style=for-the-badge)](https://github.com/c4snipes/c4snipes/issues/new?title=RPS:%20Paper&body=I%20choose%20PAPER!%20📄)
+[![Scissors](https://img.shields.io/badge/✂️_SCISSORS-red?style=for-the-badge)](https://github.com/c4snipes/c4snipes/issues/new?title=RPS:%20Scissors&body=I%20choose%20SCISSORS!%20✂️)
+
+**Last Game:**
+<!-- GAME:START -->
+| Player | Choice | Computer | Result |
+|--------|--------|----------|--------|
+| Waiting for first player... | ❓ | ❓ | ❓ |
+<!-- GAME:END -->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <div align="center">
 
 ### 💡 "Talk is cheap. Show me the code." – Linus Torvalds
