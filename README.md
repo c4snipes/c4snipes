@@ -20,9 +20,7 @@
 
 ## 🎓 About Me
 
-<a href="https://donut-animation-six.vercel.app" target="_blank">
-  <img align="right" alt="Spinning Donut" width="400" src="https://raw.githubusercontent.com/mohit-raj-purohit/mohit-raj-purohit/main/donut.gif"/>
-</a>
+<img align="right" alt="Spinning Donut" width="400" src="./assets/donut.gif"/>
 
 Computer Science major with Software Engineering concentration at the University of Indianapolis, specializing in frontend development and modern web technologies. Currently developing AI-powered educational tools and building developer automation systems.
 
