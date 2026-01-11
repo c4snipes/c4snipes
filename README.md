@@ -1,6 +1,8 @@
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FF3E00&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Cole+Snipes;Software+Engineering+Student;Frontend+Developer+%7C+Problem+Solver;Building+AI-Powered+Tools)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Cole%20Snipes&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20|%20Frontend%20Developer%20|%20Problem%20Solver&descAlignY=52&descSize=18" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FF3E00&center=true&vCenter=true&random=false&width=600&lines=Building+AI-Powered+Tools+%F0%9F%A4%96;Full+Stack+Development+%F0%9F%9A%80;Workflow+Automation+%E2%9A%A1;Always+Learning+%F0%9F%93%9A)](https://git.io/typing-svg)
 
 ### Software Engineering Student | Frontend Developer | Problem Solver
 
@@ -14,9 +16,11 @@
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%"/>
 
 ## 🎓 About Me
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 Computer Science major with Software Engineering concentration at the University of Indianapolis, specializing in frontend development and modern web technologies. Currently developing AI-powered educational tools and building developer automation systems.
 
@@ -25,7 +29,9 @@ Computer Science major with Software Engineering concentration at the University
 - 💼 Experience: Frontend Developer, Database Configuration, CI/CD Implementation, Machine Learning
 - 🎯 Interests: Full-stack development, workflow automation, compiler design, data science, game development
 
----
+<br clear="right"/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## ⚡ Quick Stats
 
@@ -37,7 +43,7 @@ Computer Science major with Software Engineering concentration at the University
   <img src="https://img.shields.io/badge/Graduating-2026-purple?style=for-the-badge" />
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -80,7 +86,7 @@ Computer Science major with Software Engineering concentration at the University
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -96,7 +102,7 @@ Computer Science major with Software Engineering concentration at the University
 
 **Tech:** Svelte · Firebase · Gemini AI · Docker · n8n
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 -->
 
 ### [n8n-to-Python Transpiler](https://github.com/c4snipes/n8n-transpiler)
@@ -109,7 +115,7 @@ Computer Science major with Software Engineering concentration at the University
 
 **Tech:** Python · Abstract Syntax Tree · n8n API · CLI
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### [ColeSnipesPortfolio](https://github.com/c4snipes/ColeSnipesPortfolio)
 **Personal Portfolio Website**
@@ -119,7 +125,7 @@ Computer Science major with Software Engineering concentration at the University
 
 **Tech:** JavaScript · HTML · CSS
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### [Budget Manager](https://github.com/c4snipes/budget_manager)
 **Personal Finance Tracking Application**
@@ -129,7 +135,7 @@ Computer Science major with Software Engineering concentration at the University
 
 **Tech:** Rust
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### [Stackoverflow Minigame](https://github.com/c4snipes/stackoverflow-minigame)
 **Interactive Stack-Based Puzzle Game**
@@ -139,7 +145,7 @@ Computer Science major with Software Engineering concentration at the University
 
 **Tech:** C#
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ### [Bluetooth Attendance Application](https://github.com/c4snipes/BluetoothAttendanceApplication)
 **Automated Attendance Tracking System**
@@ -149,7 +155,7 @@ Computer Science major with Software Engineering concentration at the University
 
 **Tech:** Python
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📊 Contributions
 
@@ -175,7 +181,7 @@ Computer Science major with Software Engineering concentration at the University
 **[flaskGlowscriptHost](https://github.com/UINDY-SWEN-200/flaskGlowscriptHost/tree/screenShotExecutable)** - Screenshot Executable Branch
 - Implemented screenshot capture functionality
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📈 GitHub Stats
 
@@ -189,7 +195,7 @@ Computer Science major with Software Engineering concentration at the University
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🏆 GitHub Trophies
 
@@ -199,7 +205,7 @@ Computer Science major with Software Engineering concentration at the University
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📊 Contribution Graph
 
@@ -209,7 +215,7 @@ Computer Science major with Software Engineering concentration at the University
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -219,7 +225,7 @@ Computer Science major with Software Engineering concentration at the University
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 🎯 Current Focus
 
@@ -228,7 +234,7 @@ Computer Science major with Software Engineering concentration at the University
 - 🤖 Exploring AI/ML integration in applications
 - 🎮 Game development and community tools side projects
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 ## 📫 Let's Connect!
 
@@ -241,12 +247,14 @@ I'm always interested in collaborating on interesting projects or discussing tec
 -->
 - 📍 Indianapolis, IN
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 <div align="center">
-  
+
 ### 💡 "Talk is cheap. Show me the code." – Linus Torvalds
 
-![Profile Views](https://komarev.com/ghpvc/?username=c4snipes&color=blueviolet&style=for-the-badge)
+![Snake animation](https://raw.githubusercontent.com/c4snipes/c4snipes/output/github-snake-dark.svg)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
