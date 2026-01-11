@@ -20,7 +20,7 @@
 
 ## 🎓 About Me
 
-<img align="right" alt="Spinning Donut" width="400" src="./assets/donut.gif"/>
+<img align="right" alt="Pong" width="400" src="./assets/pong.gif"/>
 
 Computer Science major with Software Engineering concentration at the University of Indianapolis, specializing in frontend development and modern web technologies. Currently developing AI-powered educational tools and building developer automation systems.
 
