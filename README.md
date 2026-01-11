@@ -202,7 +202,7 @@ Computer Science major with Software Engineering concentration at the University
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=c4snipes&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-gold-three.vercel.app/?username=c4snipes&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
