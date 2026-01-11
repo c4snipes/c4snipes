@@ -385,7 +385,8 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=14,15,16&height=4&section=header" width="60%"/>
+**Gruvbox**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
@@ -399,11 +400,11 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-857-blue?style=flat-square)
-![Lines](https://img.shields.io/badge/Lines-411-green?style=flat-square)
+![Words](https://img.shields.io/badge/Words-902-blue?style=flat-square)
+![Lines](https://img.shields.io/badge/Lines-422-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->January 11, 2026 at 12:09 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->January 11, 2026 at 12:12 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
