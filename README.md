@@ -44,46 +44,39 @@ Computer Science major with Software Engineering concentration at the University
 <div align="center">
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=js" title="JavaScript" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=python" title="Python" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=ts" title="TypeScript" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=c" title="C" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=cpp" title="C++" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=cs" title="C#" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=java" title="Java" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=rust" title="Rust" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=html" title="HTML5" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=css" title="CSS3" width="48" height="48" />
+<a href="#"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/rust-icon.svg" alt="Rust" width="65" height="65" /></a>
+
+<img src="https://skillicons.dev/icons?i=c,html,css" height="48" />
 
 ### 🚀 Frameworks & Libraries
-<img src="https://skillicons.dev/icons?i=svelte" title="Svelte" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=flask" title="Flask" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=django" title="Django" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=react" title="React" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=express" title="Express" width="48" height="48" />
+<a href="#"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" /></a>
+
+<img src="https://skillicons.dev/icons?i=svelte,flask,spring,nodejs,express" height="48" />
 
 ### 🗄️ Databases & Cloud
-<img src="https://skillicons.dev/icons?i=firebase" title="Firebase" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=mongodb" title="MongoDB" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=mysql" title="MySQL" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=aws" title="AWS" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=vercel" title="Vercel" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=netlify" title="Netlify" width="48" height="48" />
+<a href="#"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" /></a>
+
+<img src="https://skillicons.dev/icons?i=firebase,postgres,mongodb,vercel,netlify" height="48" />
 
 ### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker" title="Docker" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=git" title="Git" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=github" title="GitHub" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=vscode" title="VS Code" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=replit" title="Replit" width="48" height="48" />
+<a href="#"><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" /></a>
+<a href="#"><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" /></a>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,replit" height="48" />
 
 ### 🤖 AI & Data Science
-<img src="https://skillicons.dev/icons?i=python" title="Python" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=tensorflow" title="TensorFlow" width="48" height="48" />
-<img src="https://skillicons.dev/icons?i=pytorch" title="PyTorch" width="48" height="48" />
+<a href="#"><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" /></a>
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" height="48" />
 
 </div>
 
