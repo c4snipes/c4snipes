@@ -18,17 +18,17 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4  # Updated to v4 for Node 20
 
       - name: Generate snake.svg
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk/svg-only@v3  # Latest stable version
         with:
           github_user_name: c4snipes
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
 
       - name: Push snake.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4.0.0  # Updated for Node 20
         with:
           target_branch: output
           build_dir: dist

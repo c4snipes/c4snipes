@@ -25,13 +25,13 @@
 |:--------|:------------|
 | [🎓 About Me](#-about-me) | Background and current work |
 | [⚡ Quick Stats](#-quick-stats) | At-a-glance info |
-| [🛠️ Tech Stack](#️-tech-stack) | Languages, frameworks, tools |
-| [🗺️ Learning Roadmap](#️-learning-roadmap) | Tech progression path |
+| [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) | Languages, frameworks, tools |
+| [🗺️ Learning Roadmap](#%EF%B8%8F-learning-roadmap) | Tech progression path |
 | [🚀 Featured Projects](#-featured-projects) | Portfolio highlights |
 | [📊 Contributions](#-contributions) | Open source work |
 | [📈 GitHub Stats](#-github-stats) | Activity metrics |
 | [🏆 GitHub Trophies](#-github-trophies) | Achievements |
-| [🖥️ Hardware Setup](#️-hardware-setup) | Dev environment |
+| [🖥️ Hardware Setup](#%EF%B8%8F-hardware-setup) | Dev environment |
 | [🪣 Bucket List](#-bucket-list---things-i-want-to-build) | Future projects |
 | [🎮 Gaming & Hobbies](#-gaming--hobbies) | Personal interests |
 | [📫 Let's Connect](#-lets-connect) | Contact info |
@@ -333,9 +333,9 @@ graph LR
 
 | Status | Project | Description |
 |:------:|:--------|:------------|
-| 🎮 | **Game** | Develop a 2D/3D game using Unity or UE5 |
-| 📱 | **Mobile App** | College sports dynasty/management sim |
-| 📊 | **Graph Builder** | No-code tool to create graphs from data, APIs, or files |
+| 📋 | **Game** | Develop a 2D/3D game using Unity or UE5 |
+| 📋 | **Mobile App** | College sports dynasty/management sim |
+| 📋 | **Graph Builder** | No-code tool to create graphs from data, APIs, or files |
 
 </div>
 
@@ -347,7 +347,7 @@ graph LR
 
 <div align="center">
 
-[![Xbox](https://img.shields.io/badge/Xbox-silvercloud595-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://account.xbox.com/profile)
+[![Xbox](https://img.shields.io/badge/Xbox-silvercloud595-107C10?style=for-the-badge&logo=xbox&logoColor=white)](https://www.xbox.com/en-US/play/user/silvercloud595)
 [![MyAnimeList](https://img.shields.io/badge/MyAnimeList-C4Snipes-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/C4Snipes)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/6x5uk4ku7y7um1w96k16w31fw)
 
