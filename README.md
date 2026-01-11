@@ -265,6 +265,49 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
+## 🎌 Anime Stats
+
+<div align="center">
+
+[![MyAnimeList](https://img.shields.io/badge/MyAnimeList-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)](https://myanimelist.net/profile/C4Snipes)
+
+<a href="https://myanimelist.net/profile/C4Snipes">
+  <img src="https://malheatmap.com/users/C4Snipes/signature" alt="MyAnimeList Stats" />
+</a>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+## 📊 Profile Meta
+
+<div align="center">
+
+<!-- RANDOM_EMOJI -->🎲<!-- /RANDOM_EMOJI --> **Today's Vibe** <!-- RANDOM_EMOJI -->🎲<!-- /RANDOM_EMOJI -->
+
+<!-- DAILY_THEME -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="60%"/>
+<!-- /DAILY_THEME -->
+
+📅 **This Day in History:**
+<!-- THIS_DAY_IN_HISTORY -->
+*Loading historical events...*
+<!-- /THIS_DAY_IN_HISTORY -->
+
+---
+
+📝 **README Stats:**
+<!-- README_STATS -->
+![Words](https://img.shields.io/badge/Words-Loading-blue?style=flat-square)
+![Lines](https://img.shields.io/badge/Lines-Loading-green?style=flat-square)
+<!-- /README_STATS -->
+
+🕐 **Last Updated:** <!-- LAST_UPDATED -->Never<!-- /LAST_UPDATED -->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
 <div align="center">
 
 ### 💡 "Talk is cheap. Show me the code." – Linus Torvalds

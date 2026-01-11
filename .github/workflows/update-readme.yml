@@ -1,0 +1,157 @@
+name: Update README Dynamic Content
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs daily at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Update README
+        run: |
+          python << 'EOF'
+          import re
+          import random
+          import requests
+          from datetime import datetime, timezone
+
+          # Read README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+
+          # 1. Random Emojis (different each day based on date seed)
+          emojis = ['🚀', '💻', '🔥', '⚡', '🎯', '💡', '🌟', '✨', '🎮', '🎲',
+                    '🏆', '💪', '🧠', '🎨', '🔮', '🌈', '🎸', '🎹', '🎵', '🎬',
+                    '🍕', '☕', '🌙', '🌊', '🏔️', '🌸', '🍀', '🦋', '🐉', '🦊']
+          today = datetime.now(timezone.utc).strftime('%Y-%m-%d')
+          random.seed(today)
+          emoji1 = random.choice(emojis)
+          emoji2 = random.choice(emojis)
+
+          content = re.sub(
+              r'<!-- RANDOM_EMOJI -->.*?<!-- /RANDOM_EMOJI -->',
+              f'<!-- RANDOM_EMOJI -->{emoji1}<!-- /RANDOM_EMOJI -->',
+              content,
+              count=1
+          )
+          content = re.sub(
+              r'<!-- RANDOM_EMOJI -->.*?<!-- /RANDOM_EMOJI -->',
+              f'<!-- RANDOM_EMOJI -->{emoji2}<!-- /RANDOM_EMOJI -->',
+              content,
+              count=1
+          )
+
+          # 2. Daily Theme (color changes based on day of week)
+          day_colors = {
+              0: '0:16,100:52',   # Monday - Blue to Purple
+              1: '6,11,20',       # Tuesday - Original gradient
+              2: '2,19,38',       # Wednesday - Green to Teal
+              3: '12,20,28',      # Thursday - Orange to Red
+              4: '24,25,26',      # Friday - Pink to Purple
+              5: '0,2,30',        # Saturday - Cyan to Blue
+              6: '14,15,16',      # Sunday - Gold to Orange
+          }
+          day_of_week = datetime.now(timezone.utc).weekday()
+          color_list = day_colors.get(day_of_week, '6,11,20')
+
+          content = re.sub(
+              r'<!-- DAILY_THEME -->.*?<!-- /DAILY_THEME -->',
+              f'<!-- DAILY_THEME -->\n<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList={color_list}&height=4&section=header" width="60%"/>\n<!-- /DAILY_THEME -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          # 3. This Day in History
+          now = datetime.now(timezone.utc)
+          month, day = now.month, now.day
+          try:
+              response = requests.get(f'https://api.wikimedia.org/feed/v1/wikipedia/en/onthisday/events/{month}/{day}',
+                                      headers={'User-Agent': 'GitHubProfile/1.0'}, timeout=10)
+              if response.status_code == 200:
+                  events = response.json().get('events', [])
+                  if events:
+                      # Pick a random historical event
+                      random.seed(today + 'history')
+                      event = random.choice(events[:10])  # From top 10 events
+                      year = event.get('year', '')
+                      text = event.get('text', '')
+                      history_text = f"**{year}**: {text[:150]}{'...' if len(text) > 150 else ''}"
+                  else:
+                      history_text = "*No events found for today*"
+              else:
+                  history_text = "*Unable to fetch historical events*"
+          except Exception as e:
+              history_text = "*Historical events temporarily unavailable*"
+
+          content = re.sub(
+              r'<!-- THIS_DAY_IN_HISTORY -->.*?<!-- /THIS_DAY_IN_HISTORY -->',
+              f'<!-- THIS_DAY_IN_HISTORY -->\n{history_text}\n<!-- /THIS_DAY_IN_HISTORY -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          # 4. README Stats (word count, line count)
+          # Remove HTML tags and markdown for accurate word count
+          clean_text = re.sub(r'<[^>]+>', '', content)
+          clean_text = re.sub(r'\[([^\]]+)\]\([^\)]+\)', r'\1', clean_text)
+          clean_text = re.sub(r'[#*_`~]', '', clean_text)
+          clean_text = re.sub(r'!\[.*?\]\(.*?\)', '', clean_text)
+
+          words = len(clean_text.split())
+          lines = len(content.split('\n'))
+
+          stats_badges = f"""![Words](https://img.shields.io/badge/Words-{words}-blue?style=flat-square)
+          ![Lines](https://img.shields.io/badge/Lines-{lines}-green?style=flat-square)"""
+
+          content = re.sub(
+              r'<!-- README_STATS -->.*?<!-- /README_STATS -->',
+              f'<!-- README_STATS -->\n{stats_badges.strip()}\n<!-- /README_STATS -->',
+              content,
+              flags=re.DOTALL
+          )
+
+          # 5. Last Updated timestamp
+          updated_time = datetime.now(timezone.utc).strftime('%B %d, %Y at %H:%M UTC')
+          content = re.sub(
+              r'<!-- LAST_UPDATED -->.*?<!-- /LAST_UPDATED -->',
+              f'<!-- LAST_UPDATED -->{updated_time}<!-- /LAST_UPDATED -->',
+              content
+          )
+
+          # Write updated README
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+
+          print(f"README updated successfully!")
+          print(f"- Random emojis: {emoji1}, {emoji2}")
+          print(f"- Daily theme color: {color_list}")
+          print(f"- Words: {words}, Lines: {lines}")
+          print(f"- Updated at: {updated_time}")
+          EOF
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git diff --staged --quiet || git commit -m "Update README dynamic content [skip ci]"
+          git push
