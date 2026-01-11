@@ -20,7 +20,9 @@
 
 ## 🎓 About Me
 
-<img align="right" alt="Terminal" width="400" src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/terminal.gif"/>
+<a href="https://donut-animation-six.vercel.app" target="_blank">
+  <img align="right" alt="Spinning Donut" width="400" src="https://raw.githubusercontent.com/mohit-raj-purohit/mohit-raj-purohit/main/donut.gif"/>
+</a>
 
 Computer Science major with Software Engineering concentration at the University of Indianapolis, specializing in frontend development and modern web technologies. Currently developing AI-powered educational tools and building developer automation systems.
 
