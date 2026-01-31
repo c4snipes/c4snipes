@@ -394,26 +394,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Synthwave**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,30,2&height=4&section=header" width="60%"/>
+**One Dark**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22,24,26&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2000**: Kenya Airways Flight 431 crashes into the Atlantic Ocean off the coast of Ivory Coast, killing 169.
+**2020**: The United Kingdom's membership within the European Union ceases in accordance with Article 50, after 47 years of being a member state.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-898-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-904-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-431-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->January 30, 2026 at 02:39 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->January 31, 2026 at 02:34 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
