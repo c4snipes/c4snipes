@@ -394,26 +394,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Tokyo Night**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,26,27&height=4&section=header" width="60%"/>
+**Dracula**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,28,30&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2013**: A bomb blast at a market in Hazara Town, Quetta, Pakistan kills more than 80 people and injures 190 others.
+**2011**: Arab Spring: In Bahrain, security forces launch a deadly pre-dawn raid on protesters in Pearl Roundabout in Manama; the day is locally known as Bloody...
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-902-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-906-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-431-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->February 16, 2026 at 02:49 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->February 17, 2026 at 02:45 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
