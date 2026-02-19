@@ -394,26 +394,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Nord**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,21,22&height=4&section=header" width="60%"/>
+**Monokai**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,2,12&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**1991**: The IRA explodes bombs in the early morning at Paddington station and Victoria station in London.
+**1986**: Akkaraipattu massacre: the Sri Lankan Army massacres 80 Tamil farm workers in eastern Sri Lanka.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-897-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-896-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-431-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->February 18, 2026 at 02:48 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->February 19, 2026 at 02:47 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
