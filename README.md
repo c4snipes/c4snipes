@@ -26,7 +26,6 @@
 | [🎓 About Me](#-about-me) | Background and current work |
 | [⚡ Quick Stats](#-quick-stats) | At-a-glance info |
 | [🛠️ Tech Stack](#%EF%B8%8F-tech-stack) | Languages, frameworks, tools |
-| [🗺️ Learning Roadmap](#%EF%B8%8F-learning-roadmap) | Tech progression path |
 | [🚀 Featured Projects](#-featured-projects) | Portfolio highlights |
 | [📊 Contributions](#-contributions) | Open source work |
 | [📈 GitHub Stats](#-github-stats) | Activity metrics |
@@ -116,55 +115,7 @@ Computer Science major with Software Engineering concentration at the University
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-## 🗺️ Learning Roadmap
 
-<div align="center">
-
-```mermaid
-graph LR
-    subgraph MASTERED[" ✅ Mastered "]
-        A[JavaScript]
-        B[Python]
-        C[HTML/CSS]
-        D[React]
-    end
-
-    subgraph LEARNING[" 📚 Currently Learning "]
-        E[TypeScript]
-        F[Rust]
-        G[AI/ML]
-        H[Svelte]
-    end
-
-    subgraph NEXT[" 🎯 Next Up "]
-        I[Go]
-        J[Kubernetes]
-        K[System Design]
-    end
-
-    subgraph FUTURE[" 🔮 Future Goals "]
-        L[WebAssembly]
-        M[Blockchain]
-        N[Compilers]
-    end
-
-    A --> E
-    B --> G
-    D --> H
-    E --> I
-    F --> L
-    G --> K
-    H --> J
-    I --> N
-    J --> M
-
-    style MASTERED fill:#238636,stroke:#238636,color:#fff
-    style LEARNING fill:#1f6feb,stroke:#1f6feb,color:#fff
-    style NEXT fill:#8957e5,stroke:#8957e5,color:#fff
-    style FUTURE fill:#f85149,stroke:#f85149,color:#fff
-```
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
