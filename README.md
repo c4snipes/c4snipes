@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Synthwave**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,30,2&height=4&section=header" width="60%"/>
+**One Dark**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22,24,26&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2014**: Philippines signs a peace accord with the largest Muslim rebel group, the Moro Islamic Liberation Front, ending decades of conflict.
+**1999**: Kosovo War: Serb paramilitary and military forces kill at least 130 Kosovo Albanians in Izbica.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-805-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-801-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->March 27, 2026 at 03:17 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->March 28, 2026 at 02:47 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
