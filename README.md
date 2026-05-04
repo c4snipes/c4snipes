@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Gruvbox**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12&height=4&section=header" width="60%"/>
+**Tokyo Night**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,26,27&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2021**: Twenty-six people are killed and ninety-eight are injured after an elevated section of the Mexico City Metro collapses.
+**2023**: Nine people are killed and thirteen injured in a spree shooting in Mladenovac and Smederevo, Serbia. It is the second mass shooting in the country in ...
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-803-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-813-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->May 03, 2026 at 03:55 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->May 04, 2026 at 03:52 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
