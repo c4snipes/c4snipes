@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Gruvbox**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12&height=4&section=header" width="60%"/>
+**Tokyo Night**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,26,27&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2014**: A military plane crash in northern Laos kills 17 people.
+**2009**: The LTTE are defeated by the Sri Lankan government, ending almost 26 years of fighting between the two sides.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-795-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-805-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->May 17, 2026 at 04:04 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->May 18, 2026 at 04:17 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
