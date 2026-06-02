@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Tokyo Night**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,26,27&height=4&section=header" width="60%"/>
+**Dracula**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,28,30&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2004**: Oklahoma City bombing co-conspirator Terry Nichols is sentenced to 161 consecutive life terms without the possibility of parole.
+**2010**: Twelve people are killed and eleven others injured in a spree shooting in Cumbria, England, before the perpetrator takes his own life.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-804-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-807-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->June 01, 2026 at 04:59 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->June 02, 2026 at 04:46 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
