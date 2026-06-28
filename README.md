@@ -341,15 +341,15 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**One Dark**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22,24,26&height=4&section=header" width="60%"/>
+**Gruvbox**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2024**: U.S. President Joe Biden debates former U.S. President Donald Trump. Biden's perceived poor performance leads to his withdrawal from the election on J...
+**2009**: Honduran president Manuel Zelaya is ousted by a local military coup following a failed request to hold a referendum to rewrite the Honduran Constituti...
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
@@ -360,7 +360,7 @@ I'm always interested in collaborating on interesting projects or discussing tec
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->June 27, 2026 at 04:03 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->June 28, 2026 at 04:25 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
