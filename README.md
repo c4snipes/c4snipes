@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Synthwave**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,30,2&height=4&section=header" width="60%"/>
+**One Dark**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22,24,26&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2018**: The collapse of the Ponte Morandi bridge in Genoa, Italy, left 16 people injured and 43 people killed.
+**2007**: An 8.0-magnitude earthquake off the Pacific coast devastates Ica and various regions of Peru, killing 514 and injuring 1,090.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-803-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-805-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->August 14, 2026 at 02:27 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->August 15, 2026 at 01:38 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
