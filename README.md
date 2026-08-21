@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Monokai**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30,2,12&height=4&section=header" width="60%"/>
+**Synthwave**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,30,2&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2007**: China Airlines Flight 120 catches fire and explodes after landing at Naha Airport in Okinawa, Japan.
+**1991**: Coup attempt against Mikhail Gorbachev collapses.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-801-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-791-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->August 20, 2026 at 01:39 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->August 21, 2026 at 01:44 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
