@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**One Dark**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22,24,26&height=4&section=header" width="60%"/>
+**Gruvbox**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2003**: Chief Justice of the Supreme Court of Alabama Roy Moore is suspended after refusing to comply with a federal court order to remove a rock inscribed wi...
+**2011**: Libyan leader Muammar Gaddafi is overthrown after the National Transitional Council forces take control of Bab al-Azizia compound during the Libyan Ci...
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-813-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-807-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->August 22, 2026 at 01:37 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->August 23, 2026 at 01:47 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
