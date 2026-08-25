@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**Tokyo Night**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=24,26,27&height=4&section=header" width="60%"/>
+**Dracula**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=27,28,30&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2010**: Henan Airlines Flight 8387 crashes at Yichun Lindu Airport in Yichun, Heilongjiang, China, killing 44 out of the 96 people on board.
+**2017**: Hurricane Harvey makes landfall in Texas as a powerful Category 4 hurricane, the strongest hurricane to make landfall in the United States since 2004.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-808-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-809-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->August 24, 2026 at 01:44 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->August 25, 2026 at 01:39 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
