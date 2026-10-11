@@ -341,26 +341,26 @@ I'm always interested in collaborating on interesting projects or discussing tec
 
 **Today's Theme:**
 <!-- DAILY_THEME -->
-**One Dark**
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=22,24,26&height=4&section=header" width="60%"/>
+**Gruvbox**
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,8,12&height=4&section=header" width="60%"/>
 <!-- /DAILY_THEME -->
 
 ---
 
 📅 **This Day in History:**
 <!-- THIS_DAY_IN_HISTORY -->
-**2002**: Iraq War: The United States Congress approves the Authorization for Use of Military Force Against Iraq Resolution of 2002.
+**1987**: Start of Operation Pawan by Indian forces in Sri Lanka. Thousands of civilians, insurgents, and soldiers die.
 <!-- /THIS_DAY_IN_HISTORY -->
 
 ---
 
 📝 **README Stats:**
 <!-- README_STATS -->
-![Words](https://img.shields.io/badge/Words-805-blue?style=flat-square)
+![Words](https://img.shields.io/badge/Words-802-blue?style=flat-square)
 ![Lines](https://img.shields.io/badge/Lines-378-green?style=flat-square)
 <!-- /README_STATS -->
 
-🕐 **Last Updated:** <!-- LAST_UPDATED -->October 10, 2026 at 05:26 UTC<!-- /LAST_UPDATED -->
+🕐 **Last Updated:** <!-- LAST_UPDATED -->October 11, 2026 at 05:19 UTC<!-- /LAST_UPDATED -->
 
 </div>
 
